@@ -15,4 +15,4 @@ https://s3.amazonaws.com/examplebucket/test.txt
 &X-Amz-SignedHeaders=host
 &X-Amz-Signature=<signature-value>
 
-(https://docs.aws.amazon.com/AmazonS3/latest/API/images/sigV4-using-query-params.png)
+![](https://docs.aws.amazon.com/AmazonS3/latest/API/images/sigV4-using-query-params.png)
